@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766170357102",
+    "firebase_url": "https://giris-19790.firebaseio.com",
+    "project_id": "giris-19790",
+    "storage_bucket": "giris-19790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766170357102:android:e8b177990d1fce120a757f",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766170357102-kis2ct7egj4u4s9roh0eij5o3ok3no7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deneme",
+            "certificate_hash": "9a8360dceee7f933f67fb174963dfe81f50574ff"
+          }
+        },
+        {
+          "client_id": "766170357102-vru48alkkbl5nrjrmq2kjeu3futd7miv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQT5CFb2KE_t-ODj6BHLHv8rVb_3n5bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766170357102-vru48alkkbl5nrjrmq2kjeu3futd7miv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
